@@ -2,6 +2,7 @@ import { StaffMemberSection } from "@/components/StaffMemberSection";
 import Container from "@/ui/container";
 import { HiExternalLink } from "react-icons/hi";
 
+
 export default function Home() {
   return (
     <>
